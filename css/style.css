@@ -786,6 +786,19 @@ padding-bottom:0px;
 	line-height: 40px;
 }
 
+.portfolio .portfolio-item a{
+	padding: 20px;
+    display: block;
+    line-height: 1.7em;
+    list-style: none;
+	color: black;
+	text-align: center;
+}
+
+.portfolio .portfolio-item a:hover{
+	color: red;
+}
+
 /* lightbox */
 .lightbox{
  position: fixed;
